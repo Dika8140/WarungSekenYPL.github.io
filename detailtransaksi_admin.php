@@ -41,7 +41,7 @@
 
       <!-- Nav Item - Dashboard -->
       <li class="nav-item active">
-        <a class="nav-link" href="index_admin.php">
+        <a class="nav-link" href="index_admin.html">
           <i class="fas fa-fw fa-tachometer-alt"></i>
           <span>Dashboard</span></a>
       </li>
@@ -56,14 +56,14 @@
 
       <!-- Nav Item - Pages Collapse Menu -->
       <li class="nav-item">
-        <a class="nav-link" href="kelola_barang.php"  data-target="" aria-expanded="true" aria-controls="collapseTwo">
+        <a class="nav-link" href="kelola_barang.html"  data-target="" aria-expanded="true" aria-controls="collapseTwo">
           <i class="fas fa-fw fa-cog"></i>
           <span>Barang</span>
         </a>
        
       </li>
        <li class="nav-item">
-        <a class="nav-link" href="kelola_transaksi.php" data-toggle="" data-target="" aria-expanded="true" aria-controls="collapseTwo">
+        <a class="nav-link" href="kelola_transaksi.html" data-toggle="" data-target="" aria-expanded="true" aria-controls="collapseTwo">
           <i class="fas fa-fw fa-dollar-sign"></i>
           <span>Transaksi</span>
         </a>
@@ -71,7 +71,7 @@
       </li>
        
        <li class="nav-item">
-        <a class="nav-link" href="profil_perusahaan.php" data-toggle="" data-target="" aria-expanded="true" aria-controls="collapseTwo">
+        <a class="nav-link" href="profil_perusahaan.html" data-toggle="" data-target="" aria-expanded="true" aria-controls="collapseTwo">
           <i class="fas fa-fw fa-user"></i>
           <span>Profil Perusahaan</span>
         </a>
@@ -277,7 +277,7 @@
         <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
         <div class="modal-footer">
           <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-          <a class="btn btn-primary" href="login_admin.php">Logout</a>
+          <a class="btn btn-primary" href="login_admin.html">Logout</a>
         </div>
       </div>
     </div>
@@ -295,7 +295,7 @@
         <div class="modal-body"></div>
         <div class="modal-footer">
           <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-          <a class="btn btn-primary" href="kelola_transaksi.php">Hapus</a>
+          <a class="btn btn-primary" href="kelola_transaksi.html">Hapus</a>
         </div>
       </div>
     </div>
